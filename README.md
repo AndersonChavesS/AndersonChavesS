@@ -5,6 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonchaves30@gmail.com)
 
 ![Anderson Chaves GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonChavesS&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonChavesS&layout=compact)
 
 ## Tecnologias que utilizo
