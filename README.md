@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonChavesS&layout=compact)
 
-## Tecnologias que utilizo
+## Tecnologias que Utilizo
 
 ### Front-end
 <div>
